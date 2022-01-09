@@ -1,5 +1,6 @@
 nome : Gerar Dados
 
+em :
   cronograma : # executar a cada 12 horas
     - cron : " * * / 12 * * * "
   workflow_dispatch :
@@ -22,3 +23,4 @@ empregos :
           build_dir : dist
         env :
           GITHUB_TOKEN : $ {{secrets.GITHUB_TOKEN}}
+  
