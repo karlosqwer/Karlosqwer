@@ -1,5 +1,6 @@
 ## Olá ! Me chamo Karlos Eduardo.
 - 👨🏻‍💻 Desenvolvedor Front-end.
+- 📩 Contato: Contatokarlos12@gmail.com
 <div align="center">
   <a href="https://github.com/Karlosqwer">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Karlosqwer&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
