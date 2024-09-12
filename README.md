@@ -7,6 +7,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karlosqwer&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
+## Commits Snake 🐍
+
+![snake gif](https://github.com/karlosqwer/karlosqwer/blob/output/github-contribution-grid-snake.svg)
+
 ## Tecnologias Front-End que utilizo
 
 <div style="display: inline_block"><br>
@@ -17,6 +21,15 @@
   <img align="center" alt="Karlos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
+## Minhas Habilidades em Front-End
+
+| Tecnologia   | Nível         |
+|--------------|---------------|
+| JavaScript   | ![85%](https://progress-bar.dev/85) |
+| TypeScript   | ![75%](https://progress-bar.dev/75) |
+| React        | ![70%](https://progress-bar.dev/70) |
+| HTML5        | ![90%](https://progress-bar.dev/90) |
+| CSS3         | ![80%](https://progress-bar.dev/80) |
 
 ## Redes Sociais
 
