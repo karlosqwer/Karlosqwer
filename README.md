@@ -3,15 +3,7 @@
 ## ⚡ Estatísticas do GitHub
 <div align="center">
   <a href="https://github.com/karlosqwer">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=karlosqwer&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karlosqwer&layout=compact&langs_count=7&theme=radical"/>
-  </a>
-</div>
-
-## 📈 GitHub Streak Stats 
-<div align="center">
-  <a href="https://github.com/karlosqwer">
-    <img height="180em" src="https://streak-stats.demolab.com/?user=karlosqwer&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&year=2024"/>
+    <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=karlosqwer&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph" /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=karlosqwer&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false&order=2" height="150" alt="languages graph" /> <img src="https://github-readme-activity-graph.vercel.app/graph?username=karlosqwer&radius=16&theme=gotham&area=true&order=5&custom_title=Gr%C3%A1fico%20das%20Contribui%C3%A7%C3%B5es" height="300" alt="activity-graph graph" /> </div>
   </a>
 </div>
 
