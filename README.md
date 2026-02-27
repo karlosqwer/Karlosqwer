@@ -1,34 +1,64 @@
 # 👋 Olá, eu sou Karlos Eduardo
 
 🎯 Estudante de RPA (Robotic Process Automation)  
-💻 Desenvolvedor com foco em automação de processos e integração de sistemas  
+💻 Focado em automação de processos, integrações e otimização de tarefas repetitivas  
 
-Sou apaixonado por tecnologia e otimização.  
-Meu foco é transformar tarefas repetitivas em processos automatizados, eficientes e escaláveis.
+Sou apaixonado por tecnologia e eficiência.  
+Meu objetivo é transformar processos manuais em fluxos automatizados, inteligentes e escaláveis.
 
-Atualmente estou me especializando em:
-- Automação de Processos (RPA)
-- Integração de APIs
-- Lógica e estruturação de fluxos automatizados
-- Desenvolvimento Front-End para interfaces de suporte a automações
-
-🚀 Buscando oportunidade de estágio em RPA para aplicar meus conhecimentos e evoluir profissionalmente.
+🚀 Buscando oportunidade de estágio em RPA para aplicar meus conhecimentos em automação e desenvolvimento.
 
 ---
 
-## ⚡ Estatísticas do GitHub
+## 🤖 Stack de RPA & Automação
 
-<div align="center">
-  <a href="https://github.com/karlosqwer">
-    <img src="https://github-readme-stats.vercel.app/api?username=karlosqwer&show_icons=true&include_all_commits=true&count_private=true&theme=gotham&locale=pt-br" height="150" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=karlosqwer&layout=compact&langs_count=6&theme=gotham&locale=pt-br" height="150" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=karlosqwer&theme=gotham&area=true&custom_title=Gráfico%20de%20Contribuições" height="300"/>
-  </a>
-</div>
+### 🔹 Plataformas de RPA
+- UiPath
+- Automation Anywhere
+- Blue Prism
+- Power Automate
+
+### 🔹 Linguagens de Programação
+- Python (automação, scripts e integrações)
+- JavaScript
+- TypeScript
+- SQL
+- C# (base para UiPath)
+
+### 🔹 Automação & Integrações
+- Consumo e integração de APIs REST
+- Webhooks
+- Manipulação de JSON e XML
+- Automação Web (Selenium)
+- Automação Desktop
+- Web Scraping
+- Tratamento de exceções
+- Logs e monitoramento de processos
+
+### 🔹 Banco de Dados
+- MySQL
+- PostgreSQL
+- NoSQL (conceitos)
+- Modelagem básica de dados
+
+### 🔹 Ferramentas & Versionamento
+- Git
+- GitHub
+- Postman
+- Docker (conceitos)
+- Power BI (conceitos para análise de dados)
+
+### 🔹 Conceitos Fundamentais
+- Lógica de Programação
+- Estruturação de Fluxos Automatizados
+- BPM (Business Process Management)
+- Levantamento e mapeamento de processos
+- Clean Code
+- Documentação técnica
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 💻 Background em Desenvolvimento
 
 <div style="display: inline_block"><br>
 
@@ -44,6 +74,17 @@ Atualmente estou me especializando em:
 
 ---
 
+## ⚡ Estatísticas do GitHub
+
+<div align="center">
+  <a href="https://github.com/karlosqwer">
+    <img src="https://github-readme-stats.vercel.app/api?username=karlosqwer&show_icons=true&include_all_commits=true&count_private=true&theme=gotham&locale=pt-br" height="150" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=karlosqwer&layout=compact&langs_count=6&theme=gotham&locale=pt-br" height="150" />
+  </a>
+</div>
+
+---
+
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karlos-eduardo-414016253/)
@@ -51,5 +92,4 @@ Atualmente estou me especializando em:
 
 ---
 
-✨ Obrigado por visitar meu perfil!  
-Estou aberto a networking e oportunidades na área de automação.
+✨ Transformando processos manuais em eficiência automatizada.
