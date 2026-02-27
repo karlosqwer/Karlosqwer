@@ -1,74 +1,62 @@
 # 👋 Olá, eu sou Karlos Eduardo
 
 🎯 Estudante de RPA (Robotic Process Automation)  
-💻 Focado em automação de processos, integrações e otimização de tarefas repetitivas  
+💻 Focado em automação de processos, integrações e eficiência operacional  
 
-Sou apaixonado por tecnologia e eficiência.  
-Meu objetivo é transformar processos manuais em fluxos automatizados, inteligentes e escaláveis.
+Sou apaixonado por tecnologia e otimização de processos.  
+Meu objetivo é desenvolver soluções automatizadas que reduzam falhas humanas, aumentem produtividade e gerem impacto real no negócio.
 
-🚀 Buscando oportunidade de estágio em RPA para aplicar meus conhecimentos em automação e desenvolvimento.
-
----
-
-## 🤖 Stack de RPA & Automação
-
-### 🔹 Plataformas de RPA
-- UiPath
-- Automation Anywhere
-- Blue Prism
-- Power Automate
-
-### 🔹 Linguagens de Programação
-- Python (automação, scripts e integrações)
-- JavaScript
-- TypeScript
-- SQL
-- C# (base para UiPath)
-
-### 🔹 Automação & Integrações
-- Consumo e integração de APIs REST
-- Webhooks
-- Manipulação de JSON e XML
-- Automação Web (Selenium)
-- Automação Desktop
-- Web Scraping
-- Tratamento de exceções
-- Logs e monitoramento de processos
-
-### 🔹 Banco de Dados
-- MySQL
-- PostgreSQL
-- NoSQL (conceitos)
-- Modelagem básica de dados
-
-### 🔹 Ferramentas & Versionamento
-- Git
-- GitHub
-- Postman
-- Docker (conceitos)
-- Power BI (conceitos para análise de dados)
-
-### 🔹 Conceitos Fundamentais
-- Lógica de Programação
-- Estruturação de Fluxos Automatizados
-- BPM (Business Process Management)
-- Levantamento e mapeamento de processos
-- Clean Code
-- Documentação técnica
+🚀 Buscando oportunidade de estágio em RPA para aplicar meus conhecimentos técnicos e evoluir profissionalmente.
 
 ---
 
-## 💻 Background em Desenvolvimento
+## 🤖 Tecnologias & Ferramentas de Automação
 
 <div style="display: inline_block"><br>
 
+<!-- Linguagens -->
+<img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img align="center" alt="CSharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+<img align="center" alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+
+<!-- RPA & Automação -->
+<img align="center" alt="Selenium" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg">
+<img align="center" alt="Postman" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg">
+
+<!-- Banco de Dados -->
+<img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+
+<!-- Versionamento -->
+<img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+<img align="center" alt="GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+
+</div>
+
+---
+
+## 🧠 Competências em RPA
+
+- Automação Web e Desktop  
+- Consumo e integração de APIs REST  
+- Manipulação de JSON e XML  
+- Web Scraping  
+- Tratamento de exceções e logs  
+- Mapeamento e documentação de processos  
+- Estruturação de fluxos automatizados  
+- Integração com bancos de dados  
+- Versionamento de código  
+
+---
+
+## 📚 Conhecimentos em Desenvolvimento
+
+<div style="display: inline_block"><br>
+
 <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-<img align="center" alt="Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
+<img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 
 </div>
 
@@ -92,4 +80,4 @@ Meu objetivo é transformar processos manuais em fluxos automatizados, inteligen
 
 ---
 
-✨ Transformando processos manuais em eficiência automatizada.
+✨ Automatizando processos, reduzindo erros e criando eficiência.
