@@ -1,155 +1,131 @@
 <h1 align="center">Olá, eu sou Karlos Eduardo 👋</h1>
 
-<h3 align="center">Software Developer | Data Analytics</h3>
+<h3 align="center">
+Software Developer • Data Analytics
+</h3>
 
 <p align="center">
-  Estudante de Análise e Desenvolvimento de Sistemas, com experiência em desenvolvimento web
-  e foco atual em análise de dados, SQL e Python.
+Estudante de Análise e Desenvolvimento de Sistemas apaixonado por desenvolvimento de software, análise de dados e tecnologia. Atualmente busco uma oportunidade de estágio para aplicar meus conhecimentos em desenvolvimento web, Python, SQL e Data Analytics.
 </p>
 
 <p align="center">
-  <a href="https://karlosqwer.github.io/karlos-portfolio/">Portfólio</a>
-  •
-  <a href="https://www.linkedin.com/in/karlos-eduardo-414016253/">LinkedIn</a>
-  •
-  <a href="mailto:contatokarlos12@gmail.com">E-mail</a>
+<a href="https://karlosqwer.github.io/karlos-portfolio/">🌐 Portfólio</a> •
+<a href="https://github.com/karlosqwer">💻 GitHub</a> •
+<a href="https://www.linkedin.com/in/karlos-eduardo-414016253/">💼 LinkedIn</a> •
+<a href="mailto:contatokarlos12@gmail.com">📧 E-mail</a>
 </p>
 
-👨‍💻 Sobre mim
+---
 
-🎓 Cursando Análise e Desenvolvimento de Sistemas
+# 👨‍💻 Sobre mim
 
-📊 Desenvolvendo projetos de Data Analytics
+- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
+- 📊 Focado em **Data Analytics** e **Desenvolvimento de Software**
+- 💻 Experiência com desenvolvimento Front-end e integração de APIs REST
+- 🐍 Desenvolvendo projetos com **Python, SQL, MySQL e Pandas**
+- 🚀 Sempre buscando aprender novas tecnologias
+- 🎯 Em busca de uma oportunidade de estágio
 
-💻 Experiência com desenvolvimento front-end e integração de APIs REST
+---
 
-🐍 Estudando e aplicando Python, Pandas, SQL e MySQL
+# 🚀 Projetos em Destaque
 
-📈 Interesse em transformar dados em informações úteis para apoiar decisões
+### 📊 Sales Analytics SQL
 
-🎯 Buscando uma oportunidade de estágio em Desenvolvimento de Software ou Dados
+Projeto completo de análise de vendas utilizando **MySQL**, **SQL** e **Python**.
 
-🚀 Projeto em destaque
+✔ Modelagem de Banco de Dados
 
-📊 Sales Analytics SQL
+✔ JOINs
 
-Projeto de análise de vendas desenvolvido para praticar banco de dados, consultas SQL e tratamento de dados com Python.
+✔ Views
 
-Principais recursos:
+✔ CTE
 
-Modelagem de banco de dados relacional
+✔ Window Functions
 
-Consultas com JOIN, CTE, VIEW e Window Functions
+✔ Python + Pandas
 
-Ranking de clientes e produtos
+✔ Relatórios Analíticos
 
-Análise de faturamento mensal, categorias e estados
+🔗 https://github.com/karlosqwer/sales-analytics-sql
 
-Processamento de dados com Python e Pandas
+---
 
-Geração automatizada de relatórios em CSV
+### 🌐 Portfólio
+
+Meu site pessoal desenvolvido para apresentar meus projetos, experiências e habilidades.
+
+🔗 https://karlosqwer.github.io/karlos-portfolio/
+
+---
+
+# 🛠 Tecnologias
+
+## Linguagens
 
 <p>
-  <a href="https://github.com/karlosqwer/sales-analytics-sql">
-    <strong>Ver repositório →</strong>
-  </a>
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css" />
 </p>
 
-🛠️ Tecnologias e ferramentas
-
-Dados e banco de dados
+## Banco de Dados
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,mysql,postgresql" />
+<img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-SQL
+**SQL**
 
-MySQL
+- JOIN
+- Views
+- CTE
+- Window Functions
+- Modelagem Relacional
 
-Python
-
-Pandas
-
-Modelagem relacional
-
-Manipulação e análise de dados
-
-Desenvolvimento web
+## Frameworks
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react" />
+<img src="https://skillicons.dev/icons?i=react" />
 </p>
 
-HTML5
-
-CSS3
-
-JavaScript
-
-TypeScript
-
-React
-
-APIs REST
-
-Ferramentas
+## Ferramentas
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
 </p>
 
-Git e GitHub
+---
 
-VS Code
-
-Postman
-
-Figma
-
-Trello
-
-Notion
-
-📌 Outros projetos
-
-🌐 Portfólio pessoal
-
-Site responsivo desenvolvido com HTML, CSS e JavaScript para apresentar meus projetos, habilidades e trajetória profissional.
-
-Acessar portfólio
-
-Ver código-fonte
-
-☁️ Aplicação de clima
-
-Aplicação web que realiza o consumo de uma API para consultar informações climáticas.
-
-🤖 Automações e web scraping
-
-Projetos de estudo utilizando Python, Selenium e Playwright para automação de tarefas e coleta estruturada de dados.
-
-📊 Estatísticas
+# 📈 Estatísticas
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=karlosqwer&show_icons=true&hide_border=true&locale=pt-br" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karlosqwer&layout=compact&hide_border=true&locale=pt-br" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=karlosqwer&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karlosqwer&layout=compact&theme=github_dark&hide_border=true"/>
+
 </p>
 
-📫 Contato
+---
 
-<p align="center">
-  <a href="mailto:contatokarlos12@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/karlos-eduardo-414016253/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://karlosqwer.github.io/karlos-portfolio/">
-    <img src="https://img.shields.io/badge/Portfólio-111111?style=for-the-badge&logo=githubpages&logoColor=white">
-  </a>
-</p>
+# 📫 Contato
 
-<p align="center">
-  Desenvolvendo soluções, aprendendo continuamente e transformando dados em resultados.
-</p>
+📧 **contatokarlos12@gmail.com**
+
+💼 **LinkedIn**
+
+https://www.linkedin.com/in/karlos-eduardo-414016253/
+
+🌐 **Portfólio**
+
+https://karlosqwer.github.io/karlos-portfolio/
+
+---
+
+<div align="center">
+
+### "A tecnologia move o mundo. Meu objetivo é construir soluções que gerem impacto através do desenvolvimento de software e dos dados."
+
+⭐ Obrigado pela visita ao meu perfil!
+
+</div>
