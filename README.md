@@ -1,83 +1,155 @@
-# 👋 Olá, eu sou Karlos Eduardo
+<h1 align="center">Olá, eu sou Karlos Eduardo 👋</h1>
 
-🎯 Estudante de RPA (Robotic Process Automation)  
-💻 Focado em automação de processos, integrações e eficiência operacional  
+<h3 align="center">Software Developer | Data Analytics</h3>
 
-Sou apaixonado por tecnologia e otimização de processos.  
-Meu objetivo é desenvolver soluções automatizadas que reduzam falhas humanas, aumentem produtividade e gerem impacto real no negócio.
+<p align="center">
+  Estudante de Análise e Desenvolvimento de Sistemas, com experiência em desenvolvimento web
+  e foco atual em análise de dados, SQL e Python.
+</p>
 
-🚀 Buscando oportunidade de estágio em RPA para aplicar meus conhecimentos técnicos e evoluir profissionalmente.
+<p align="center">
+  <a href="https://karlosqwer.github.io/karlos-portfolio/">Portfólio</a>
+  •
+  <a href="https://www.linkedin.com/in/karlos-eduardo-414016253/">LinkedIn</a>
+  •
+  <a href="mailto:contatokarlos12@gmail.com">E-mail</a>
+</p>
 
----
+👨‍💻 Sobre mim
 
-## 🤖 Tecnologias & Ferramentas de Automação
+🎓 Cursando Análise e Desenvolvimento de Sistemas
 
-<div style="display: inline_block"><br>
+📊 Desenvolvendo projetos de Data Analytics
 
-<!-- Linguagens -->
-<img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img align="center" alt="CSharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-<img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+💻 Experiência com desenvolvimento front-end e integração de APIs REST
 
-<!-- RPA & Automação -->
-<img align="center" alt="Selenium" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg">
-<img align="center" alt="Postman" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg">
+🐍 Estudando e aplicando Python, Pandas, SQL e MySQL
 
-<!-- Banco de Dados -->
-<img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+📈 Interesse em transformar dados em informações úteis para apoiar decisões
 
-<!-- Versionamento -->
-<img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-<img align="center" alt="GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+🎯 Buscando uma oportunidade de estágio em Desenvolvimento de Software ou Dados
 
-</div>
+🚀 Projeto em destaque
 
----
+📊 Sales Analytics SQL
 
-## 🧠 Competências em RPA
+Projeto de análise de vendas desenvolvido para praticar banco de dados, consultas SQL e tratamento de dados com Python.
 
-- Automação Web e Desktop  
-- Consumo e integração de APIs REST  
-- Manipulação de JSON e XML  
-- Web Scraping  
-- Tratamento de exceções e logs  
-- Mapeamento e documentação de processos  
-- Estruturação de fluxos automatizados  
-- Integração com bancos de dados  
-- Versionamento de código  
+Principais recursos:
 
----
+Modelagem de banco de dados relacional
 
-## 📚 Conhecimentos em Desenvolvimento
+Consultas com JOIN, CTE, VIEW e Window Functions
 
-<div style="display: inline_block"><br>
+Ranking de clientes e produtos
 
-<img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-<img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-<img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+Análise de faturamento mensal, categorias e estados
 
-</div>
+Processamento de dados com Python e Pandas
 
----
+Geração automatizada de relatórios em CSV
 
-## ⚡ Estatísticas do GitHub
-
-<div align="center">
-  <a href="https://github.com/karlosqwer">
-    <img src="https://github-readme-stats.vercel.app/api?username=karlosqwer&show_icons=true&include_all_commits=true&count_private=true&theme=gotham&locale=pt-br" height="150" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=karlosqwer&layout=compact&langs_count=6&theme=gotham&locale=pt-br" height="150" />
+<p>
+  <a href="https://github.com/karlosqwer/sales-analytics-sql">
+    <strong>Ver repositório →</strong>
   </a>
-</div>
+</p>
 
----
+🛠️ Tecnologias e ferramentas
 
-## 📫 Contato
+Dados e banco de dados
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karlos-eduardo-414016253/)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contatokarlos12@gmail.com)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,mysql,postgresql" />
+</p>
 
----
+SQL
 
-✨ Automatizando processos, reduzindo erros e criando eficiência.
+MySQL
+
+Python
+
+Pandas
+
+Modelagem relacional
+
+Manipulação e análise de dados
+
+Desenvolvimento web
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react" />
+</p>
+
+HTML5
+
+CSS3
+
+JavaScript
+
+TypeScript
+
+React
+
+APIs REST
+
+Ferramentas
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+</p>
+
+Git e GitHub
+
+VS Code
+
+Postman
+
+Figma
+
+Trello
+
+Notion
+
+📌 Outros projetos
+
+🌐 Portfólio pessoal
+
+Site responsivo desenvolvido com HTML, CSS e JavaScript para apresentar meus projetos, habilidades e trajetória profissional.
+
+Acessar portfólio
+
+Ver código-fonte
+
+☁️ Aplicação de clima
+
+Aplicação web que realiza o consumo de uma API para consultar informações climáticas.
+
+🤖 Automações e web scraping
+
+Projetos de estudo utilizando Python, Selenium e Playwright para automação de tarefas e coleta estruturada de dados.
+
+📊 Estatísticas
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=karlosqwer&show_icons=true&hide_border=true&locale=pt-br" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karlosqwer&layout=compact&hide_border=true&locale=pt-br" />
+</p>
+
+📫 Contato
+
+<p align="center">
+  <a href="mailto:contatokarlos12@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/karlos-eduardo-414016253/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://karlosqwer.github.io/karlos-portfolio/">
+    <img src="https://img.shields.io/badge/Portfólio-111111?style=for-the-badge&logo=githubpages&logoColor=white">
+  </a>
+</p>
+
+<p align="center">
+  Desenvolvendo soluções, aprendendo continuamente e transformando dados em resultados.
+</p>
