@@ -96,17 +96,12 @@ Meu site pessoal desenvolvido para apresentar meus projetos, experiências e hab
 
 ---
 
-## 📈 Estatísticas
+## 📈 Atividade no GitHub
 
 <p align="center">
   <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=karlosqwer&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true"
-  />
-
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=karlosqwer&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://streak-stats.demolab.com?user=karlosqwer&theme=tokyonight&hide_border=true&locale=pt_BR"
+    alt="Sequência de contribuições de Karlos Eduardo"
   />
 </p>
 
