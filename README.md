@@ -1,80 +1,114 @@
-<div align="center">
+<h1 align="center">Olá, eu sou Karlos Eduardo 👋</h1>
 
-# Olá, eu sou Karlos Eduardo 👋
+<h3 align="center">
+Data Analytics • Python • SQL • Automação & RPA
+</h3>
 
-### Data Analytics · Python · SQL · Automação de Processos
+<p align="center">
+Estudante de Análise e Desenvolvimento de Sistemas, com experiência em suporte
+de software e projetos práticos de dados. Transformo dados e tarefas repetitivas
+em análises, dashboards e soluções automatizadas.
+</p>
 
-Transformo dados e rotinas manuais em análises, dashboards e soluções
-automatizadas. Estudante de Análise e Desenvolvimento de Sistemas, com
-experiência em suporte de software e projetos práticos de dados.
-
-[![Portfólio](https://img.shields.io/badge/Portfólio-4D7CFF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://karlosqwer.github.io/karlos-portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karlos-eduardo-414016253/)
-[![E-mail](https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contatokarlos12@gmail.com)
-
-</div>
+<p align="center">
+<a href="https://karlosqwer.github.io/karlos-portfolio/">🌐 Portfólio</a> •
+<a href="https://github.com/karlosqwer">💻 GitHub</a> •
+<a href="https://www.linkedin.com/in/karlos-eduardo-414016253/">💼 LinkedIn</a> •
+<a href="mailto:contatokarlos12@gmail.com">📧 E-mail</a>
+</p>
 
 ---
 
-## Sobre mim
+# 👨‍💻 Sobre mim
 
-- 🎓 Graduando em **Análise e Desenvolvimento de Sistemas**
-- 📊 Foco em **Data Analytics, Python e SQL**
-- 🤖 Estudando automação de processos e **RPA com Python**
-- 💻 Experiência com suporte de software, análise de problemas e atendimento remoto
-- 🚀 Buscando oportunidade de **estágio ou posição júnior em Dados, Python ou Automação**
-- 📍 Patos, Paraíba — disponível para oportunidades remotas
+- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas na Universidade Descomplica**
+- 📊 Focado em **Data Analytics, Python e SQL**
+- 🤖 Desenvolvendo conhecimentos em **automação de processos e RPA com Python**
+- 💻 Experiência com suporte de software, APIs e desenvolvimento de interfaces
+- 📍 Patos-PB, Brasil — disponível para oportunidades remotas
+- 🎯 Em busca de estágio ou posição júnior em **Dados, Python ou Automação**
 
-## Projetos em destaque
+---
 
-### [PeoplePulse — HR Analytics](https://github.com/karlosqwer/hr-analytics)
+# 🚀 Projetos em destaque
+
+### 👥 PeoplePulse — HR Analytics
 
 Projeto completo de People Analytics com geração de dados sintéticos, modelo
 relacional MySQL e dashboard executivo em Streamlit.
 
-- 500 colaboradores, 107 mil presenças e 1.542 avaliações
-- indicadores de headcount, turnover, absenteísmo, desempenho e remuneração
-- filtros globais, seis visualizações e exportação dos dados
-- pipeline reproduzível com Python, Faker e Pandas
+✔ 500 colaboradores, 107.750 presenças e 1.542 avaliações  
+✔ Headcount, turnover, absenteísmo, desempenho e remuneração  
+✔ Dashboard interativo com filtros e exportação CSV  
+✔ Pipeline reprodutível e consultas SQL de negócio  
 
-`Python` `Pandas` `MySQL` `Streamlit` `Plotly`
+**Tecnologias:** Python, Pandas, Faker, MySQL, Streamlit e Plotly
 
-### [Sales Analytics SQL](https://github.com/karlosqwer/sales-analytics-sql)
+🔗 [Ver projeto no GitHub](https://github.com/karlosqwer/hr-analytics)
 
-Análise de vendas desenvolvida para responder perguntas de negócio sobre
-receita, produtos, clientes e evolução comercial.
+---
 
-- modelagem relacional e carga de dados
-- consultas com joins, CTEs, views e window functions
-- indicadores e relatórios analíticos com Pandas
+### 📊 Sales Analytics SQL
 
-`SQL` `MySQL` `Python` `Pandas`
+Projeto de análise de vendas criado para responder perguntas sobre receita,
+produtos, clientes e desempenho comercial.
 
-## Tecnologias
+✔ Modelagem de banco de dados relacional  
+✔ JOINs, CTEs, views e window functions  
+✔ Indicadores e consultas orientadas ao negócio  
+✔ Relatórios analíticos com Python e Pandas  
 
-**Dados:** Python · Pandas · SQL · MySQL · Plotly · Streamlit  
-**Automação:** Python · APIs REST · Selenium · Excel · Web Scraping  
-**Desenvolvimento:** HTML · CSS · JavaScript  
-**Ferramentas:** Git · GitHub · VS Code · Postman · Figma
+**Tecnologias:** SQL, MySQL, Python e Pandas
 
-## O que estou desenvolvendo agora
+🔗 [Ver projeto no GitHub](https://github.com/karlosqwer/sales-analytics-sql)
 
-- automações de tarefas repetitivas com Python;
+---
+
+# 🛠 Tecnologias
+
+## Dados e visualização
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,mysql" alt="Python e MySQL" />
+</p>
+
+`Python` `Pandas` `SQL` `MySQL` `Plotly` `Streamlit`
+
+## Automação
+
+`Python` `APIs REST` `Selenium` `Excel` `Web Scraping`
+
+## Desenvolvimento
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,git,github,vscode" alt="Tecnologias de desenvolvimento" />
+</p>
+
+`HTML` `CSS` `JavaScript` `Git` `GitHub`
+
+---
+
+# 📚 Atualmente estudando
+
+- automação de tarefas repetitivas com Python;
 - manipulação de planilhas e arquivos;
 - consumo de APIs e web scraping responsável;
-- dashboards e análises orientadas a decisões de negócio.
+- análise de dados orientada a decisões de negócio.
 
-## Contato
+---
 
-Estou aberto a oportunidades de estágio e posições júnior em Dados, Python ou
-Automação de Processos.
+# 📫 Contato
 
-- [LinkedIn](https://www.linkedin.com/in/karlos-eduardo-414016253/)
-- [Portfólio](https://karlosqwer.github.io/karlos-portfolio/)
-- [E-mail](mailto:contatokarlos12@gmail.com)
+📧 **E-mail:** [contatokarlos12@gmail.com](mailto:contatokarlos12@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/karlos-eduardo-414016253](https://www.linkedin.com/in/karlos-eduardo-414016253/)  
+🌐 **Portfólio:** [karlosqwer.github.io/karlos-portfolio](https://karlosqwer.github.io/karlos-portfolio/)
+
+---
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karlosqwer&show_icons=true&theme=transparent&hide_border=true&title_color=4D7CFF&text_color=98A8BE&icon_color=27D3C2)
+### “Dados explicam o presente. Automação cria tempo para construir o futuro.”
+
+⭐ Obrigado pela visita ao meu perfil!
 
 </div>
