@@ -1,130 +1,80 @@
-<h1 align="center">Olá, eu sou Karlos Eduardo 👋</h1>
+<div align="center">
 
-<h3 align="center">
-Software Developer • Data Analytics
-</h3>
+# Olá, eu sou Karlos Eduardo 👋
 
-<p align="center">
-Estudante de Análise e Desenvolvimento de Sistemas apaixonado por desenvolvimento de software, análise de dados e tecnologia. Atualmente busco uma oportunidade de estágio para aplicar meus conhecimentos em desenvolvimento web, Python, SQL e Data Analytics.
-</p>
+### Data Analytics · Python · SQL · Automação de Processos
 
-<p align="center">
-<a href="https://karlosqwer.github.io/karlos-portfolio/">🌐 Portfólio</a> •
-<a href="https://github.com/karlosqwer">💻 GitHub</a> •
-<a href="https://www.linkedin.com/in/karlos-eduardo-414016253/">💼 LinkedIn</a> •
-<a href="mailto:contatokarlos12@gmail.com">📧 E-mail</a>
-</p>
+Transformo dados e rotinas manuais em análises, dashboards e soluções
+automatizadas. Estudante de Análise e Desenvolvimento de Sistemas, com
+experiência em suporte de software e projetos práticos de dados.
 
----
+[![Portfólio](https://img.shields.io/badge/Portfólio-4D7CFF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://karlosqwer.github.io/karlos-portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karlos-eduardo-414016253/)
+[![E-mail](https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contatokarlos12@gmail.com)
 
-# 👨‍💻 Sobre mim
-
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
-- 📊 Focado em **Data Analytics** e **Desenvolvimento de Software**
-- 💻 Experiência com desenvolvimento Front-end e integração de APIs REST
-- 🐍 Desenvolvendo projetos com **Python, SQL, MySQL e Pandas**
-- 🚀 Sempre buscando aprender novas tecnologias
-- 🎯 Em busca de uma oportunidade de estágio
+</div>
 
 ---
 
-# 🚀 Projetos em Destaque
+## Sobre mim
 
-### 📊 Sales Analytics SQL
+- 🎓 Graduando em **Análise e Desenvolvimento de Sistemas**
+- 📊 Foco em **Data Analytics, Python e SQL**
+- 🤖 Estudando automação de processos e **RPA com Python**
+- 💻 Experiência com suporte de software, análise de problemas e atendimento remoto
+- 🚀 Buscando oportunidade de **estágio ou posição júnior em Dados, Python ou Automação**
+- 📍 Patos, Paraíba — disponível para oportunidades remotas
 
-Projeto completo de análise de vendas utilizando **MySQL**, **SQL** e **Python**.
+## Projetos em destaque
 
-✔ Modelagem de Banco de Dados
+### [PeoplePulse — HR Analytics](https://github.com/karlosqwer/hr-analytics)
 
-✔ JOINs
+Projeto completo de People Analytics com geração de dados sintéticos, modelo
+relacional MySQL e dashboard executivo em Streamlit.
 
-✔ Views
+- 500 colaboradores, 107 mil presenças e 1.542 avaliações
+- indicadores de headcount, turnover, absenteísmo, desempenho e remuneração
+- filtros globais, seis visualizações e exportação dos dados
+- pipeline reproduzível com Python, Faker e Pandas
 
-✔ CTE
+`Python` `Pandas` `MySQL` `Streamlit` `Plotly`
 
-✔ Window Functions
+### [Sales Analytics SQL](https://github.com/karlosqwer/sales-analytics-sql)
 
-✔ Python + Pandas
+Análise de vendas desenvolvida para responder perguntas de negócio sobre
+receita, produtos, clientes e evolução comercial.
 
-✔ Relatórios Analíticos
+- modelagem relacional e carga de dados
+- consultas com joins, CTEs, views e window functions
+- indicadores e relatórios analíticos com Pandas
 
-🔗 https://github.com/karlosqwer/sales-analytics-sql
+`SQL` `MySQL` `Python` `Pandas`
 
----
+## Tecnologias
 
-### 🌐 Portfólio
+**Dados:** Python · Pandas · SQL · MySQL · Plotly · Streamlit  
+**Automação:** Python · APIs REST · Selenium · Excel · Web Scraping  
+**Desenvolvimento:** HTML · CSS · JavaScript  
+**Ferramentas:** Git · GitHub · VS Code · Postman · Figma
 
-Meu site pessoal desenvolvido para apresentar meus projetos, experiências e habilidades.
+## O que estou desenvolvendo agora
 
-🔗 https://karlosqwer.github.io/karlos-portfolio/
+- automações de tarefas repetitivas com Python;
+- manipulação de planilhas e arquivos;
+- consumo de APIs e web scraping responsável;
+- dashboards e análises orientadas a decisões de negócio.
 
----
+## Contato
 
-# 🛠 Tecnologias
+Estou aberto a oportunidades de estágio e posições júnior em Dados, Python ou
+Automação de Processos.
 
-## Linguagens
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css" />
-</p>
-
-## Banco de Dados
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
-**SQL**
-
-- JOIN
-- Views
-- CTE
-- Window Functions
-- Modelagem Relacional
-
-## Frameworks
-
-<p>
-<img src="https://skillicons.dev/icons?i=react" />
-</p>
-
-## Ferramentas
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
-</p>
-
----
-
-## 📈 Atividade no GitHub
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=karlosqwer&theme=tokyonight&hide_border=true&locale=pt_BR"
-    alt="Sequência de contribuições de Karlos Eduardo"
-  />
-</p>
-
----
-
-# 📫 Contato
-
-📧 **contatokarlos12@gmail.com**
-
-💼 **LinkedIn**
-
-https://www.linkedin.com/in/karlos-eduardo-414016253/
-
-🌐 **Portfólio**
-
-https://karlosqwer.github.io/karlos-portfolio/
-
----
+- [LinkedIn](https://www.linkedin.com/in/karlos-eduardo-414016253/)
+- [Portfólio](https://karlosqwer.github.io/karlos-portfolio/)
+- [E-mail](mailto:contatokarlos12@gmail.com)
 
 <div align="center">
 
-### "A tecnologia move o mundo. Meu objetivo é construir soluções que gerem impacto através do desenvolvimento de software e dos dados."
-
-⭐ Obrigado pela visita ao meu perfil!
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karlosqwer&show_icons=true&theme=transparent&hide_border=true&title_color=4D7CFF&text_color=98A8BE&icon_color=27D3C2)
 
 </div>
