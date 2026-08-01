@@ -5,6 +5,14 @@
   <img width="63%" src="./assets/karlos-wordmark.svg" alt="Karlos Eduardo — dados, automação e eficiência" />
 </p>
 
+### `karlos@github ~ $ ./projects.sh`
+
+<p align="center">
+  <a href="https://github.com/karlosqwer/hr-analytics"><img width="32%" src="./assets/project-hr-analytics.svg" alt="HR Analytics — People Analytics com Python e Streamlit" /></a>
+  <a href="https://github.com/karlosqwer/sales-analytics-sql"><img width="32%" src="./assets/project-sales-analytics.svg" alt="Sales Analytics — análise comercial com SQL" /></a>
+  <a href="https://github.com/karlosqwer/telas-certsempre"><img width="32%" src="./assets/project-automation.svg" alt="CertSempre — interfaces para automação de processos" /></a>
+</p>
+
 ### `karlos@github ~ $ ./contributions.sh`
 
 <picture>
