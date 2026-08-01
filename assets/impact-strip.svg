@@ -1,0 +1,14 @@
+Exit code: 0
+Wall time: 0.7 seconds
+Output:
+<svg width="1200" height="180" viewBox="0 0 1200 180" xmlns="http://www.w3.org/2000/svg">
+ <defs><linearGradient id="g" x1="0" y1="0" x2="1200" y2="180"><stop stop-color="#07110C"/><stop offset=".5" stop-color="#0D1117"/><stop offset="1" stop-color="#071A1F"/></linearGradient></defs>
+ <rect width="1200" height="180" rx="18" fill="url(#g)" stroke="#30363D"/>
+ <path d="M400 30V150M800 30V150" stroke="#30363D"/>
+ <text x="200" y="74" text-anchor="middle" fill="#39D353" font-family="Segoe UI,Arial" font-size="27" font-weight="700">AUTOMATIZAR</text>
+ <text x="200" y="110" text-anchor="middle" fill="#8B949E" font-family="Segoe UI,Arial" font-size="17">menos tarefas repetitivas</text>
+ <text x="600" y="74" text-anchor="middle" fill="#58A6FF" font-family="Segoe UI,Arial" font-size="27" font-weight="700">ANALISAR</text>
+ <text x="600" y="110" text-anchor="middle" fill="#8B949E" font-family="Segoe UI,Arial" font-size="17">mais clareza nos dados</text>
+ <text x="1000" y="74" text-anchor="middle" fill="#A78BFA" font-family="Segoe UI,Arial" font-size="27" font-weight="700">ENTREGAR</text>
+ <text x="1000" y="110" text-anchor="middle" fill="#8B949E" font-family="Segoe UI,Arial" font-size="17">decisões mais inteligentes</text>
+</svg>

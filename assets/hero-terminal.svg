@@ -1,0 +1,35 @@
+Exit code: 0
+Wall time: 1.1 seconds
+Output:
+<svg width="1200" height="500" viewBox="0 0 1200 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="500" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#07110C"/><stop offset="0.52" stop-color="#0D1117"/><stop offset="1" stop-color="#0A1E14"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="180" y1="40" x2="1040" y2="460" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#39D353"/><stop offset="1" stop-color="#22D3EE"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="7" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" stroke="#39D353" stroke-opacity=".055"/></pattern>
+  </defs>
+  <rect width="1200" height="500" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="500" rx="24" fill="url(#grid)"/>
+  <rect x="1" y="1" width="1198" height="498" rx="23" stroke="url(#accent)" stroke-opacity=".55" stroke-width="2"/>
+  <rect x="40" y="34" width="1120" height="432" rx="15" fill="#0D1117" stroke="#30363D"/>
+  <path d="M40 82H1160" stroke="#30363D"/>
+  <circle cx="69" cy="58" r="7" fill="#FF5F57"/><circle cx="93" cy="58" r="7" fill="#FEBC2E"/><circle cx="117" cy="58" r="7" fill="#28C840"/>
+  <text x="600" y="64" text-anchor="middle" fill="#8B949E" font-family="Segoe UI,Arial" font-size="15">karlos@github — professional-profile</text>
+  <circle cx="188" cy="192" r="70" fill="#12261A" stroke="url(#accent)" stroke-width="3" filter="url(#glow)"/>
+  <text x="188" y="210" text-anchor="middle" fill="#F0F6FC" font-family="Segoe UI,Arial" font-size="52" font-weight="700">KE</text>
+  <text x="304" y="142" fill="#39D353" font-family="Consolas,monospace" font-size="18">$ whoami</text>
+  <text x="304" y="201" fill="#F0F6FC" font-family="Segoe UI,Arial" font-size="48" font-weight="700">Karlos Eduardo</text>
+  <text x="307" y="242" fill="#A7F3D0" font-family="Consolas,monospace" font-size="21">Dados • Automação • Eficiência</text>
+  <text x="70" y="324" fill="#8B949E" font-family="Consolas,monospace" font-size="17">01</text><text x="112" y="324" fill="#C9D1D9" font-family="Consolas,monospace" font-size="17">transformo dados em decisões</text>
+  <text x="70" y="359" fill="#8B949E" font-family="Consolas,monospace" font-size="17">02</text><text x="112" y="359" fill="#C9D1D9" font-family="Consolas,monospace" font-size="17">transformo tarefas em automações</text>
+  <text x="70" y="394" fill="#8B949E" font-family="Consolas,monospace" font-size="17">03</text><text x="112" y="394" fill="#C9D1D9" font-family="Consolas,monospace" font-size="17">transformo problemas em soluções</text>
+  <rect x="808" y="310" width="296" height="98" rx="12" fill="#0A1E14" stroke="#238636"/>
+  <circle cx="838" cy="341" r="7" fill="#39D353"><animate attributeName="opacity" values="1;.25;1" dur="1.8s" repeatCount="indefinite"/></circle>
+  <text x="858" y="347" fill="#39D353" font-family="Consolas,monospace" font-size="16" font-weight="700">OPEN TO WORK</text>
+  <text x="838" y="379" fill="#C9D1D9" font-family="Segoe UI,Arial" font-size="15">Estágio • Dados • RPA</text>
+  <rect x="1085" y="426" width="10" height="20" rx="2" fill="#39D353"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></rect>
+</svg>
