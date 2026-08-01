@@ -1,6 +1,6 @@
 <div align="center">
 
-![Karlos Eduardo — Dados, Automação e Eficiência](./assets/hero-terminal.svg)
+![Karlos Eduardo — Dados, Automação e Eficiência](./assets/hero-terminal-v2.png)
 
 [![Portfólio](https://img.shields.io/badge/PORTFÓLIO-ABRIR-39D353?style=for-the-badge&labelColor=0D1117&logo=vercel&logoColor=white)](https://karlosqwer.github.io/karlos-portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONECTAR-0A66C2?style=for-the-badge&labelColor=0D1117&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karlos-eduardo-414016253)
@@ -30,7 +30,7 @@ class KarlosEduardo:
 
 Não quero apenas escrever código. Quero entender o processo, encontrar o desperdício e construir uma solução que torne o trabalho **mais rápido, confiável e inteligente**.
 
-![Automatizar, analisar e entregar](./assets/impact-strip.svg)
+![Automatizar, analisar e entregar](./assets/impact-strip-v2.png)
 
 ## `02. como_eu_gero_valor` ⚡
 
