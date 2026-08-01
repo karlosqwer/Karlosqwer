@@ -1,6 +1,3 @@
-Exit code: 0
-Wall time: 1 seconds
-Output:
 <div align="center">
 
 ![Karlos Eduardo — Dados, Automação e Eficiência](./assets/hero-terminal.svg)
