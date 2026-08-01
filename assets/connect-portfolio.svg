@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="92" viewBox="0 0 360 92" role="img" aria-labelledby="t d">
+  <title id="t">Portfólio de Karlos Eduardo</title><desc id="d">Card para acessar os projetos de Karlos.</desc>
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#161b22"/><stop offset="1" stop-color="#0d1f16"/></linearGradient></defs>
+  <rect x="1" y="1" width="358" height="90" rx="14" fill="url(#g)" stroke="#30363d"/>
+  <rect x="18" y="20" width="52" height="52" rx="12" fill="#092317" stroke="#238636"/>
+  <path d="M35 57V36h17M42 36h10v10" fill="none" stroke="#39d353" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="88" y="36" fill="#8b949e" font-family="Consolas,monospace" font-size="11">EXPLORE</text>
+  <text x="88" y="59" fill="#f0f6fc" font-family="Arial,sans-serif" font-size="17" font-weight="700">Portfólio</text>
+  <text x="334" y="53" text-anchor="end" fill="#39d353" font-family="Arial,sans-serif" font-size="20">→</text>
+</svg>
