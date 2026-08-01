@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="520" viewBox="0 0 760 520" role="img" aria-labelledby="title desc">
+  <title id="title">Karlos Eduardo — Dados, Automação e Eficiência</title>
+  <desc id="desc">Painel profissional com especialidades, projetos e tecnologias de Karlos Eduardo.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0d1117"/><stop offset="1" stop-color="#091922"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#39d353"/><stop offset="1" stop-color="#22d3ee"/></linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="760" height="520" rx="22" fill="url(#bg)"/>
+  <rect x="1" y="1" width="758" height="518" rx="21" fill="none" stroke="#30363d"/>
+  <circle cx="25" cy="25" r="5" fill="#ff5f56"/><circle cx="43" cy="25" r="5" fill="#ffbd2e"/><circle cx="61" cy="25" r="5" fill="#27c93f"/>
+  <text x="380" y="31" text-anchor="middle" fill="#8b949e" font-family="Consolas,monospace" font-size="11">karlos@github — portfolio.sh</text>
+  <path d="M0 49H760" stroke="#30363d"/>
+  <text x="38" y="92" fill="#39d353" font-family="Consolas,monospace" font-size="15">$ whoami</text>
+  <text x="38" y="146" fill="#f0f6fc" font-family="Arial,sans-serif" font-size="46" font-weight="800">Karlos Eduardo</text>
+  <rect x="38" y="166" width="570" height="3" rx="2" fill="url(#accent)" filter="url(#glow)"/>
+  <text x="38" y="202" fill="#7ee787" font-family="Consolas,monospace" font-size="18">DADOS  •  AUTOMAÇÃO  •  EFICIÊNCIA</text>
+  <text x="38" y="240" fill="#c9d1d9" font-family="Arial,sans-serif" font-size="15">Transformo processos manuais e dados dispersos</text>
+  <text x="38" y="263" fill="#c9d1d9" font-family="Arial,sans-serif" font-size="15">em soluções que economizam tempo e apoiam decisões.</text>
+  <g transform="translate(38 298)">
+    <rect width="212" height="92" rx="12" fill="#161b22" stroke="#30363d"/>
+    <text x="18" y="28" fill="#8b949e" font-family="Consolas,monospace" font-size="11">CASE_01</text>
+    <text x="18" y="54" fill="#f0f6fc" font-family="Arial,sans-serif" font-weight="700" font-size="16">HR Analytics</text>
+    <text x="18" y="76" fill="#39d353" font-family="Consolas,monospace" font-size="11">107.750 presenças</text>
+  </g>
+  <g transform="translate(274 298)">
+    <rect width="212" height="92" rx="12" fill="#161b22" stroke="#30363d"/>
+    <text x="18" y="28" fill="#8b949e" font-family="Consolas,monospace" font-size="11">CASE_02</text>
+    <text x="18" y="54" fill="#f0f6fc" font-family="Arial,sans-serif" font-weight="700" font-size="16">Sales Analytics</text>
+    <text x="18" y="76" fill="#22d3ee" font-family="Consolas,monospace" font-size="11">SQL + decisões</text>
+  </g>
+  <g transform="translate(510 298)">
+    <rect width="212" height="92" rx="12" fill="#161b22" stroke="#30363d"/>
+    <text x="18" y="28" fill="#8b949e" font-family="Consolas,monospace" font-size="11">CASE_03</text>
+    <text x="18" y="54" fill="#f0f6fc" font-family="Arial,sans-serif" font-weight="700" font-size="16">Automação</text>
+    <text x="18" y="76" fill="#a371f7" font-family="Consolas,monospace" font-size="11">Python + RPA</text>
+  </g>
+  <text x="38" y="432" fill="#8b949e" font-family="Consolas,monospace" font-size="11">CORE STACK</text>
+  <g font-family="Consolas,monospace" font-size="12" font-weight="700">
+    <rect x="38" y="447" width="82" height="32" rx="7" fill="#1f2937"/><text x="79" y="468" text-anchor="middle" fill="#ffd43b">PYTHON</text>
+    <rect x="130" y="447" width="66" height="32" rx="7" fill="#1f2937"/><text x="163" y="468" text-anchor="middle" fill="#58a6ff">SQL</text>
+    <rect x="206" y="447" width="88" height="32" rx="7" fill="#1f2937"/><text x="250" y="468" text-anchor="middle" fill="#e70488">PANDAS</text>
+    <rect x="304" y="447" width="104" height="32" rx="7" fill="#1f2937"/><text x="356" y="468" text-anchor="middle" fill="#43b02a">SELENIUM</text>
+    <rect x="418" y="447" width="104" height="32" rx="7" fill="#1f2937"/><text x="470" y="468" text-anchor="middle" fill="#ff4b4b">STREAMLIT</text>
+    <rect x="532" y="447" width="86" height="32" rx="7" fill="#1f2937"/><text x="575" y="468" text-anchor="middle" fill="#61dafb">REACT</text>
+  </g>
+  <text x="722" y="468" text-anchor="end" fill="#39d353" font-family="Consolas,monospace" font-size="12">v1.0.0</text>
+</svg>

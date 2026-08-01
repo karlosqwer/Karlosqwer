@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="92" viewBox="0 0 360 92" role="img" aria-labelledby="t d">
+  <title id="t">LinkedIn de Karlos Eduardo</title><desc id="d">Card para conectar com Karlos no LinkedIn.</desc>
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#161b22"/><stop offset="1" stop-color="#0b1927"/></linearGradient></defs>
+  <rect x="1" y="1" width="358" height="90" rx="14" fill="url(#g)" stroke="#30363d"/>
+  <rect x="18" y="20" width="52" height="52" rx="12" fill="#0a2338" stroke="#0a66c2"/>
+  <text x="44" y="57" text-anchor="middle" fill="#58a6ff" font-family="Arial,sans-serif" font-size="26" font-weight="800">in</text>
+  <text x="88" y="36" fill="#8b949e" font-family="Consolas,monospace" font-size="11">CONNECT</text>
+  <text x="88" y="59" fill="#f0f6fc" font-family="Arial,sans-serif" font-size="17" font-weight="700">LinkedIn</text>
+  <text x="334" y="53" text-anchor="end" fill="#58a6ff" font-family="Arial,sans-serif" font-size="20">→</text>
+</svg>

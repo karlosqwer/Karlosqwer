@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="520" viewBox="0 0 420 520" role="img" aria-labelledby="title desc">
+  <title id="title">Karlos Eduardo — identidade em terminal</title>
+  <desc id="desc">Painel escuro com monograma KE, padrões de dados e status disponível.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0d1117"/><stop offset="1" stop-color="#071b13"/></linearGradient>
+    <linearGradient id="stroke" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#39d353"/><stop offset="1" stop-color="#22d3ee"/></linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#238636" stroke-opacity=".09"/></pattern>
+  </defs>
+  <rect width="420" height="520" rx="22" fill="url(#bg)"/>
+  <rect x="1" y="1" width="418" height="518" rx="21" fill="none" stroke="#30363d"/>
+  <rect x="1" y="1" width="418" height="518" rx="21" fill="url(#grid)"/>
+  <circle cx="25" cy="25" r="5" fill="#ff5f56"/><circle cx="43" cy="25" r="5" fill="#ffbd2e"/><circle cx="61" cy="25" r="5" fill="#27c93f"/>
+  <text x="210" y="31" text-anchor="middle" fill="#8b949e" font-family="Consolas,monospace" font-size="11">identity.sys</text>
+  <path d="M0 49H420" stroke="#30363d"/>
+  <circle cx="210" cy="180" r="102" fill="#0d1f16" stroke="url(#stroke)" stroke-width="3"/>
+  <circle cx="210" cy="180" r="88" fill="none" stroke="#39d353" stroke-opacity=".18" stroke-dasharray="4 8"/>
+  <text x="210" y="199" text-anchor="middle" fill="#f0f6fc" font-family="Arial,sans-serif" font-weight="800" font-size="64">KE</text>
+  <circle cx="284" cy="112" r="5" fill="#39d353" filter="url(#glow)"/>
+  <g font-family="Consolas,monospace" font-size="13">
+    <text x="32" y="320" fill="#39d353">$ profile --status</text>
+    <text x="32" y="352" fill="#8b949e">name</text><text x="125" y="352" fill="#f0f6fc">Karlos Eduardo</text>
+    <text x="32" y="378" fill="#8b949e">formação</text><text x="125" y="378" fill="#f0f6fc">ADS · Descomplica</text>
+    <text x="32" y="404" fill="#8b949e">focus</text><text x="125" y="404" fill="#7ee787">Data · RPA</text>
+  </g>
+  <rect x="30" y="443" width="360" height="48" rx="10" fill="#092317" stroke="#238636"/>
+  <circle cx="54" cy="467" r="6" fill="#39d353" filter="url(#glow)"/>
+  <text x="72" y="472" fill="#39d353" font-family="Consolas,monospace" font-weight="700" font-size="14">OPEN TO WORK</text>
+  <text x="365" y="472" text-anchor="end" fill="#8b949e" font-family="Consolas,monospace" font-size="11">ONLINE</text>
+</svg>
